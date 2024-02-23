@@ -12,11 +12,6 @@
 }
 
 
-
-.playerHeading {
-
-}
-
 .OptBtn {
     text-align: center;
     width: 4rem;
@@ -25,3 +20,26 @@
 .OptBtn:hover {
     cursor: pointer;
 }
+
+.newGameBtn  {
+    background-color:#F2B237;
+    font-weight: 600;
+}
+
+
+
+.newGameUser {
+    background-color: #32C4C3;
+    font-weight: 600;
+}
+
+.Invite {
+    background-color:#F2B237;
+    font-weight: 700;
+}
+
+.newGameBtn, .Invite, .newGameUser:hover {
+    cursor: pointer;
+    
+}
+

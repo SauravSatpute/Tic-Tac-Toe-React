@@ -18,6 +18,15 @@ const ChoosePlayer = () => {
                 </div>
             </div>
         </div>
+        <div className={style.flexRow}>
+            <button className={style.newGameBtn} style={{padding:'0.7rem 0.3rem', width:'300px', marginTop:'30px' }}>NEW GAME ( VS CPU )</button>
+        </div>
+        <div className={style.flexRow}>
+            <button className={style.newGameUser} style={{padding:'0.7rem 0.3rem', width:'300px', marginTop:'30px' }}>NEW GAME ( VS HUMAN ) Coming soon</button>
+        </div>
+        <div className={style.flexRow}>
+            <button className={style.Invite} style={{padding:'0.3rem 0.3rem', width:'200px', marginTop:'50px' }}>Invite your friend</button>
+        </div>
     </div>
   )
 }

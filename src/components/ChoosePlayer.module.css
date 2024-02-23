@@ -1,0 +1,27 @@
+.flexColumn {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+.playerHeading {
+
+}
+
+.OptBtn {
+    text-align: center;
+    width: 4rem;
+}
+
+.OptBtn:hover {
+    cursor: pointer;
+}

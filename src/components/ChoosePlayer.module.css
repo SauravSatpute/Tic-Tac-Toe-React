@@ -24,6 +24,8 @@
 .newGameBtn  {
     background-color:#F2B237;
     font-weight: 600;
+    border-radius: 10px;
+
 }
 
 
@@ -31,12 +33,15 @@
 .newGameUser {
     background-color: #32C4C3;
     font-weight: 600;
+    border-radius: 10px;
+
 }
 
 .Invite {
     background-color:#F2B237;
     font-weight: 700;
-}
+    border-radius: 10px;
+}   
 
 .newGameBtn, .Invite, .newGameUser:hover {
     cursor: pointer;

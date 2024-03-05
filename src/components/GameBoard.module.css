@@ -31,3 +31,66 @@
     width: 100%;
     height: 100%;
   }
+
+  .skyBlue {
+    color: #32C4C3;
+  } 
+
+  .yellow {
+    color:#F7B336;
+  }
+
+  .gray {
+    color: #ACC2CD;
+   
+  }
+
+  .grayLight {
+    background-color: #A7BDC8;
+  }
+
+  .turn {
+    background-color: #1F3540;
+    padding: 0.5rem;
+    border-radius: 10px;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 260px;
+    padding: 0.4rem;
+  }
+
+  .restart {
+    padding: 0.5rem;
+  }
+
+  .UserScore {
+    background-color:#32C4C3;
+    text-align: center;
+    padding: 0.6rem;
+    border-radius: 15px;
+  }
+
+  .CpuScore {
+    background-color: #F7B336;
+    text-align: center;
+    padding: 0.6rem;
+    border-radius: 15px;
+
+  }
+
+  .Ties {
+    background-color: #A7BDC8;
+    text-align: center;
+    padding: 0.6rem;
+    border-radius: 15px;
+
+  }
+
+  .scoreContainer {
+    
+  }

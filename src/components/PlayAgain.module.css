@@ -1,0 +1,21 @@
+.wrapper {
+    width: 360px;
+    text-align: center;
+    background-color: #192A32;
+}
+
+.colorYellow {
+    color: #F2B237;
+}
+
+.bgYellow {
+    background-color: #F2B237;
+}
+
+.skyBlue {
+    background-color: #31C4BE;
+}
+
+.playAgain {
+    margin: 0.5rem;
+}
